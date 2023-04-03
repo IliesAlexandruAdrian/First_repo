@@ -173,6 +173,8 @@ Data: generați automat data de azi
 Produs | cantitate | preț bucată | Total
 Telefon | 7 | 700 | 49000
 Indiciu pt data: https://www.geeksforgeeks.org/get-current-date-using-python/'''
+
+
 print('----------------Ex 5 --------------')
 from datetime import date
 today = date.today()
